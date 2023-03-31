@@ -1,0 +1,6 @@
+@media (max-width: 820px) {
+    .header__info-img{
+        display: none;
+        left: 9999px;
+    }
+}
